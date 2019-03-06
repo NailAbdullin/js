@@ -1,7 +1,6 @@
 'use strict';
 
 
-
 var number = 5;
 var string = "Hello!";
 var sym = Symbol();
@@ -39,7 +38,7 @@ console.log(arr[0]);
 
 
 // console.log("arr" + "- object");
-// console.log(4 + "- object");
+console.log(4 + "- object");
 
 let incr = 10,
     decr = 10;
